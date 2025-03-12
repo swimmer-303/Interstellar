@@ -2,11 +2,11 @@ const config = {
   challenge: true, // Set to true if you want to enable password protection.
   users: {
     // You can add multiple users by doing username: 'password'.
-    spencer: "spencer01",
-    hara: "hara02",
-    tyler: "tyler03",
+    spencer: "spenca",
+    hara: "Hara20!3",
+    tyler: "Captainunderpants13",
     whit: "14mathmath",
-    fritz: "fritz",
+    fritz: "crazyperson",
   },
 };
 
