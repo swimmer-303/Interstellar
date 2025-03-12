@@ -5,7 +5,7 @@ const config = {
     spencer: "spenca",
     hara: "Hara20!3",
     tyler: "Captainunderpants13",
-    whit: "14mathmath",
+    whit: "14mathmath ",
     fritz: "crazyperson",
   },
 };
