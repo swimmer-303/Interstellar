@@ -5,6 +5,7 @@ const config = {
     spencer: "spenca",
     admin: "Admin",
     member: "member",
+    user: "user",
   },
 };
 
