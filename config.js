@@ -3,7 +3,7 @@ const config = {
   users: {
     // You can add multiple users by doing username: 'password'.
     spencer: "spenca",
-    admin: "Admin",
+    admin: "adminAccess",
     member: "member",
     user: "user",
   },
