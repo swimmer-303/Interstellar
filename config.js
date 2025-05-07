@@ -6,6 +6,7 @@ const config = {
     admin: "adminAccess",
     member: "member",
     user: "user",
+    temp: "",
   },
 };
 
